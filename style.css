@@ -261,3 +261,8 @@ color: #333; /* Dark color for the title */
 font-weight: bold; /* Bold font for the product name */
 margin-top: 10px; /* Adds space between image and title */
 }
+/* Hover Effect for Buttons */
+.buy-button:hover {
+    background-color: #e61919; /* Darkens the button color on hover */
+    transform: scale(1.05); /* Slightly enlarges the button */
+}
